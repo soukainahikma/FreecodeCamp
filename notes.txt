@@ -1,0 +1,7 @@
+######### HI THIS IS GOING TO BE A FILE WHERE I ORGANIZE THE INFORMATION I LEARN ABOUT REACT #########
+                        ***********  BUILDING A RANDOM QUOTE MACHINEb  ***********
+React Comfiguration:
+
+Ideas about the app:
+build a random quote machime but with arabic quotes
+

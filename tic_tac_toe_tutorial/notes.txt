@@ -1,0 +1,13 @@
+There are two ways to write the code
+either in the Browser (like in codepen)
+or in (local development enviroment)
+And to so that :
+->  have Node.js installed
+Follow the installation instructions for Create React App to make a new project.
+->  npx create-react-app my-app
+->  cd my-app
+->  npm start
+
+################# What is JSX ?
+JSX is an XML/HTML-like syntax used in React
+with JSX instead of putting JavaScript into HTML, JSX allows us to put HTML into JavaScript.
